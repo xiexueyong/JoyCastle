@@ -1,5 +1,5 @@
 1.第一题的代码在 Algorithm/Assets/SplitWord.cs内，采用最大正向分词法
-2.第二题的代码在 Algorithm/Assets/OverlapRect.cs内，通过遍历矩形之间的重叠关系构建一个对称矩阵，然后遍历矩阵可得到重叠矩形的数量。
+2.第二题的代码在 Algorithm/Assets/OverlapRect.cs内，通过遍历矩形之间的重叠关系构建一个对称矩阵，然后遍历矩阵可得到重叠矩形的数量。此题为了简化计算，假设每个矩形的宽高相等、无旋转。可已通过构造函数设置矩形的宽高和矩形的数量。
 
 以上两题的代码已测试通过，测试代码在Algorithm/Assets/Test.cs里，clone项目并在unity中运行即可查看测试用例的结果。
 
